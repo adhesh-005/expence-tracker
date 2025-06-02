@@ -1,2 +1,2 @@
 # expence-tracker
-moneymanagement 
+money management 
